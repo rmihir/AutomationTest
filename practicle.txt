@@ -1,0 +1,9 @@
+Practical Scenario for Test
+=========================================================================
+1. Redirect to the url : https://demoqa.com/
+2. Click on the "Widgets" box and verify url contains "/widgets"
+3. Move to the left navigation bar and click on "Auto Complete" field
+4. There are two textbox first one is "multiple color box" and "single color box"
+5. Select two colors for the multi select box : Black and White 
+6  Select one color for the single color box : Red
+7. After selecting color verify values for both the color boxes
